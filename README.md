@@ -1,6 +1,6 @@
 # FinnyRobin.github.io
 ## Sales Report :
-# _[Sales and Finance Data Model](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/DataModelSales%26Finance.png)
+### [Sales and Finance Data Model](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/DataModelSales%26Finance.png)
 - **Project objective:** 
 
     **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
