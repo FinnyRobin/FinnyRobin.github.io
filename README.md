@@ -1,11 +1,11 @@
 # FinnyRobin.github.io
 ## Sales Report :
-### [Sales and Finance Data Model](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/DataModelSales%26Finance.png)
+
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/Customer-Performance-Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/Market%20performance%20vs%20Targets%202021.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -18,9 +18,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/P%26L%20By%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/P%26L%20by%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/Profit%20%26%20Loss%20by%20Market.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
@@ -28,6 +28,7 @@
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
+## [Sales and Finance Data Model](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/DataModelSales%26Finance.png)
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
