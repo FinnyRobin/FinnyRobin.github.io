@@ -16,7 +16,7 @@
 Power Pivot Report Features |
 :--------------------------:|
 ![](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/Report%20Features.png)
-|
+
 ## Finance Report :
 
 - **Project objective:** 
