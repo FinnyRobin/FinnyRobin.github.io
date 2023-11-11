@@ -21,7 +21,7 @@ Power Pivot Report Features |
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/P%26L%20By%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/P%26L%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/P%26L%20By%20Fiscal%20Year.pdf)_ & [Months](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/Monthly%20P%26L.png)
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/Profit%20%26%20Loss%20by%20Market.pdf)_
 
