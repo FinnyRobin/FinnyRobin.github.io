@@ -15,7 +15,7 @@
   
 Power Pivot Report Features |
 :--------------------------:|
-![](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/Report%20Features.png)
+<img src="Report Features.png" alt="header" />
 
 ## Finance Report :
 
@@ -33,7 +33,7 @@ Power Pivot Report Features |
 
 Data Model Used |
 :--------------:|
-![](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/DataModelSales%26Finance.png)
+<img src="DataModelSales&Finance.png" alt="header" />
 
 **Note:** Fiscal year considered is from Sep-Aug
 
