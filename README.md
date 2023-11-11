@@ -13,11 +13,9 @@
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
   
-Power Pivot report Features |
+Power Pivot Report Features |
 :--------------------------:|
-![](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/DataModelSales%26Finance.png)
-
-
+![](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/Report%20Features.png)
 
 ## Finance Report :
 
