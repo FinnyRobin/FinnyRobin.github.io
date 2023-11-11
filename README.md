@@ -15,7 +15,7 @@
   
 Power Pivot Report Features |
 :--------------------------:|
-![](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/Report%20Features.png)
+![](Report Features.png)
 
 ## Finance Report :
 
