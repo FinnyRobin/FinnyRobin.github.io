@@ -28,7 +28,9 @@
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
-## [Sales and Finance Data Model](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/DataModelSales%26Finance.png)
+Data Model Used |
+:--------------:|
+![](https://github.com/FinnyRobin/FinnyRobin.github.io/blob/main/DataModelSales%26Finance.png)
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
